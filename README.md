@@ -7,6 +7,9 @@ The project is broken down into multiple steps:
 <li>Load the image dataset and create a pipeline.</li>
 <li>Build and Train an image classifier on this dataset.</li>
 <li>Use your trained model to perform inference on flower images.</li>
+</br>
 
+<b> Part 2: Building the Command Line Application </b> </br>
+I built and trained a deep neural network on the flower data set, it's time to convert it into an application that others can use. My application was a Python script that run from the command line. For testing, you should use the saved Keras model you saved in the first part.
 
 
